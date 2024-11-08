@@ -1,1 +1,2 @@
-Toto je můj první commit
+Můj první commit
+Commit ve větvi branch2
